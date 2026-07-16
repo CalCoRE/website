@@ -10,14 +10,37 @@ footer {
   padding: 40px;
   line-height: var(--spacing);
   box-shadow: var(--shadow);
+  background: #ddd5c7 !important; // Fog background
+  color: #46535e !important; // Dark gray text
 }
 
 footer a {
-  color: var(--text) !important;
+  color: #46535e !important;
+  text-decoration: underline;
 }
 
 footer a:hover {
-  color: var(--primary) !important;
+  color: #003262 !important; // Berkeley Blue
+}
+
+footer .button[data-style="bare"] {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  background: #fdb515 !important; // Berkeley Gold background
+  color: #46535e !important; // Dark gray icon color
+  font-size: 18px;
+  margin: 5px;
+  text-decoration: none !important;
+  transition: background var(--transition), color var(--transition);
+}
+
+footer .button[data-style="bare"]:hover {
+  background: #46535e !important; // Invert on hover
+  color: #fdb515 !important;
 }
 
 footer .icon {

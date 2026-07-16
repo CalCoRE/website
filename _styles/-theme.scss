@@ -3,33 +3,37 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
+  --primary: #3b7ea1; // California Blue
+  --secondary: #fdb515; // Berkeley Gold
+  --text: #222222; // Charcoal text
+  --background: #ffffff; // White background
+  --background-alt: #f1f6fa; // Soft light blue-gray background
+  --light-gray: #ddd5c7; // Fog/sand gray
   --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --dark-gray: #46535e;
+  --overlay: rgba(0, 50, 98, 0.08);
+  --link-color: #3b7ea1; // California Blue
+  --link-hover-color: #003262; // Berkeley Blue
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #fdb515; // Berkeley Gold
+  --secondary: #ddd5c7; // Fog/Sand
+  --text: #ffffff; // White text
+  --background: #003262; // Berkeley Blue background
+  --background-alt: #0a2540; // A darker shade of blue for section alternation
+  --light-gray: #3b7ea1; // California Blue
+  --gray: #b8b8b8;
+  --dark-gray: #ddd5c7;
+  --overlay: rgba(0, 0, 0, 0.4);
+  --link-color: #ddd5c7; // Fog
+  --link-hover-color: #fdb515; // Gold
 }
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Montserrat", sans-serif;
+  --heading: "Montserrat", sans-serif;
+  --body: "Poppins", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
@@ -39,16 +43,16 @@
 
   // font weights
   --thin: 200;
-  --regular: 400;
+  --regular: 300;
   --semi-bold: 500;
   --bold: 600;
 
   // text line spacing
-  --spacing: 2;
-  --compact: 1.5;
+  --spacing: 1.25;
+  --compact: 1.1;
 
   // effects
-  --rounded: 3px;
+  --rounded: 2px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
