@@ -1,19 +1,15 @@
 # site properties and page defaults
-title: CalCoRE
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: CoRE Lab
+subtitle: Berkeley School of Education
+description: We explore how computing practices (e.g., programming, data analysis and visualization, computer simulation, GIS mapping) are changing the ways that young people learn and communicate about our world.
+header: 
+footer: 
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@CalCoRE.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: core-lab@berkeley.edu
   github: CalCoRE
-  twitter: CalCoRE
-  youtube: CalCoRE
 
 ### jekyll settings
 
@@ -49,7 +45,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  - jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge
