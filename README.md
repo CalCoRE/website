@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # CalCoRE's Website
+  # CoRE Lab's Website
 
   Visit **[calcore.github.io/website](https://calcore.github.io/website)** 🚀
 
