@@ -1,2 +1,29 @@
+# ADDING IMAGES TO PUBLICATIONS
+
 - id: doi:10.1111/test.70022
   image: /images/pubs/tch-stats.jpg
+
+# ADDING ARCHIVAL CONFERENCES
+
+- id: 10.1145/3105726.3106193
+  title: Understanding student collaboration in interdisciplinary computing activities
+
+- id: 10.1145/1124706.1121410
+  title: "Multimodal communication in the classroom: what does it mean for us?"
+
+- id: 10.22318/icls2024.730439
+  title: Decomposing Students\’ Design Moves when Programming Agent-Based Models
+  image: /images/pubs/isls24.png
+
+- id: 10.22318/icls2024.424056
+  title: "Activism or Bureaucracy: What Are We Teaching Students Through Local Climate Action Projects?"
+  image: /images/pubs/isls24.png
+  
+- id: 10.22318/icls2023.208036
+  title: How Can Computational Modeling Help Students Shift Their Ideas Towards Scientifically Accurate 
+    Explanations?
+  image: /images/pubs/isls23.png
+
+- id: 10.22318/icls2016.140
+  title: "Distributions, Trends, and Contradictions: A Case Study in Sensemaking With Interactive Data 
+    Visualizations"
