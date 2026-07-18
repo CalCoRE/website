@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-file-lines" %}Publications
 
 Here you should be able to find most archival and pre-print versions of our published papers. If you cannot find something, [please reach out to us](mailto:core-lab@berkeley.edu), we are always happy to share.
 
