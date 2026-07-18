@@ -473,8 +473,238 @@
   michelle-wilkerson: true
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1162/99608f92.9ac68105
+  title: "Mapping the Conceptual Foundation(s) of \u2018Data Science Education\u2019"
+  authors:
+  - Michelle Hoda Wilkerson
+  publisher: Harvard Data Science Review
+  date: '2025-06-25'
+  link: https://doi.org/hcb3vp
+  image: /images/pubs/hdsr.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10763-024-10521-y
+  title: How Teachers Envision Using Data Visualization Discussion Tasks in Classroom
+    Instruction
+  authors:
+  - Michelle H. Wilkerson
+  - John Kim
+  - Hollylynne S. Lee
+  - David J. Stokes
+  - Matthew Ferrell
+  publisher: International Journal of Science and Mathematics Education
+  date: '2025-01-10'
+  link: https://doi.org/hcb3vn
+  image: /images/pubs/ijsme.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/07370008.2024.2427400
+  title: 'Toward Ontological Alignment: Coordinating Student Ideas with the Representational
+    System of a Computational Modeling Unit for Science Learning'
+  authors:
+  - Aditi Wagh
+  - Leah F. Rosenbaum
+  - Tamar Fuhrmann
+  - Adelmo Eloy
+  - Paulo Blikstein
+  - Michelle Wilkerson
+  publisher: Cognition and Instruction
+  date: '2024-11-18'
+  link: https://doi.org/hcb3vq
+  image: /images/pubs/cog-inst.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/sce.21890
+  title: "Right but wrong: How students' mechanistic reasoning and conceptual understandings\
+    \ shift when designing agent\u2010based models using data"
+  authors:
+  - Tamar Fuhrmann
+  - Leah Rosenbaum
+  - Aditi Wagh
+  - Adelmo Eloy
+  - Jacob Wolf
+  - Paulo Blikstein
+  - Michelle Wilkerson
+  publisher: Science Education
+  date: '2024-08-12'
+  link: https://doi.org/gt752b
+  image: /images/pubs/scied.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/08872376.2024.2340444
+  title: "Exploring Climate Change Through Students\u2019 Place Connections and Public\
+    \ Data Sets"
+  authors:
+  - Kathryn Lanouette
+  - Krista L. Cortes
+  - Lisette Lopez
+  - Michael Bakal
+  - Michelle Hoda Wilkerson
+  publisher: Science Scope
+  date: '2024-05-03'
+  link: https://doi.org/hcb3vr
+  image: /images/pubs/science-scope.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.ijcci.2022.100546
+  title: 'Who creates our computational worlds? A review of Critically Conscious Computing:
+    Methods for secondary education'
+  authors:
+  - Brendan Henrique
+  - Collette Roberto
+  - Michelle Hoda Wilkerson
+  publisher: International Journal of Child-Computer Interaction
+  date: '2023-03-01'
+  link: https://doi.org/hcb3vs
+  image: images/pubs/ccc-book.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.58295/2375-3668.1452
+  title: 'Mapping Racespace:  Data Stories as a Tool for Environmental and Spatial
+    Justice'
+  authors:
+  - Emily Reigh
+  - "Meg Escud\xE9"
+  - Michael Bakal
+  - Edward Rivero
+  - Xinyu Wei
+  - Collette Roberto
+  - "Damaris Hern\xE1ndez"
+  - Amber Yada
+  - "Kris Guti\xE9rrez"
+  - Michelle Hoda Wilkerson
+  publisher: Occasional Paper Series
+  date: '2022-11-22'
+  link: https://doi.org/hcb3vv
+  image: images/pubs/bankst.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.4324/9781003089728-12
+  title: "Learning from \u201CInterpretations of Innovation\u201D in the CoDesign\
+    \ of Digital Tools"
+  authors:
+  - Michelle Hoda Wilkerson
+  - Rebecca L. Shareff
+  - Vasiliki Laina
+  publisher: The Learning Sciences in Conversation
+  date: '2022-06-14'
+  link: https://doi.org/hcb3vw
+  image: images/pubs/ls-in-convo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.3102/0013189X211048810
+  title: "A Call for a Humanistic Stance Toward K\u201312 Data Science Education"
+  authors:
+  - Victor R. Lee
+  - Michelle Hoda Wilkerson
+  - Kathryn Lanouette
+  publisher: Educational Researcher
+  date: '2021-09-23'
+  link: https://doi.org/gngfpb
+  image: images/pubs/ed-researcher.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/10986065.2021.1922838
+  title: 'Exploring variability during data preparation: a way to connect data, chance,
+    and context when working with complex public datasets'
+  authors:
+  - Michelle Hoda Wilkerson
+  - Kathryn Lanouette
+  - Rebecca L. Shareff
+  publisher: Mathematical Thinking and Learning
+  date: '2021-05-24'
+  link: https://doi.org/gj6mdr
+  image: images/pubs/mtl.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.7551/mitpress/12091.003.0028
+  title: Storytelling as a Support for Collective Constructionist Activity
+  authors:
+  - Michelle Hoda Wilkerson
+  - Brian Gravel
+  publisher: Designing Constructionist Futures
+  date: '2020-10-27'
+  link: https://doi.org/hcb3v2
+  image: images/pubs/design-futures.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/10494820.2020.1711326
+  title: 'Stories from the field: locating and cultivating computational thinking
+    in spaces of learning'
+  authors:
+  - Michelle Hoda Wilkerson
+  - "Cynthia M. D\u2019Angelo"
+  - Breanne K. Litts
+  publisher: Interactive Learning Environments
+  date: '2020-04-02'
+  link: https://doi.org/hcb3vz
+  image: images/pubs/ile.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/10508406.2019.1705664
+  title: 'Situating Data Science: Exploring How Relationships to Data Shape Learning'
+  authors:
+  - Michelle Hoda Wilkerson
+  - Joseph L. Polman
+  publisher: Journal of the Learning Sciences
+  date: '2019-12-20'
+  link: https://doi.org/ggkff8
+  image: images/pubs/jls.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/10714413.2019.1684162
+  title: 'Empowerment and transformation: Integrating teacher identity, activism,
+    and criticality across three teacher education programs'
+  authors:
+  - Tracy Quan
+  - Christian A. Bracho
+  - Michelle Wilkerson
+  - Monica Clark
+  publisher: Review of Education, Pedagogy, and Cultural Studies
+  date: '2019-10-20'
+  link: https://doi.org/gmz842
+  image: images/pubs/repcs.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/09500693.2019.1620972
+  title: The co-construction of epistemological framing in clinical interviews and
+    implications for research in science education
+  authors:
+  - Yara Shaban
+  - Michelle Hoda Wilkerson
+  publisher: International Journal of Science Education
+  date: '2019-05-31'
+  link: https://doi.org/hcb3v3
+  image: images/pubs/ijse.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11858-018-0974-9
+  title: "Middle school students\u2019 reasoning about data and context through storytelling\
+    \ with repurposed local data"
+  authors:
+  - Michelle Hoda Wilkerson
+  - Vasiliki Laina
+  publisher: ZDM
+  date: '2018-07-30'
+  link: https://doi.org/rbmz
+  image: images/pubs/zdm.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11251-017-9430-4
+  title: Epistemic gameplay and discovery in computational model-based inquiry activities
+  authors:
+  - Michelle Hoda Wilkerson
+  - Rebecca Shareff
+  - Vasiliki Laina
+  - Brian Gravel
+  publisher: Instructional Science
+  date: '2017-10-16'
+  link: https://doi.org/gc5k3q
+  image: images/pubs/inst-sci.webp
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1145/3105726.3106193
-  title: Understanding student collaboration in interdisciplinary computing activities
+  title: Understanding Student Collaboration in Interdisciplinary Computing Activities
   authors:
   - Elise Deitrick
   - Michelle Hoda Wilkerson
@@ -483,6 +713,128 @@
     Research
   date: '2017-08-14'
   link: https://doi.org/hcb3v8
+  image: images/pubs/icer17.avif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3078072.3084302
+  title: Youth Reasoning With Interactive Data Visualizations
+  authors:
+  - Michelle Hoda Wilkerson
+  - Vasiliki Laina
+  publisher: Proceedings of the 2017 Conference on Interaction Design and Children
+  date: '2017-06-27'
+  link: https://doi.org/gpbhjm
+  image: images/pubs/idc17.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.4324/9781315630830-13
+  title: Teachers, Students, and After-School Professionals as Designers of Digital
+    Tools for Learning
+  authors:
+  - Michelle Hoda Wilkerson
+  publisher: Participatory Design for Learning
+  date: '2017-05-25'
+  link: https://doi.org/hcb3v6
+  image: images/pubs/pdl.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/978-3-319-64239-0_17
+  title: 'DataSketch: A Tool to Turn Student Sketches into Data-Driven Visualizations'
+  authors:
+  - Michelle Hoda Wilkerson
+  publisher: "Human\u2013Computer Interaction Series"
+  date: '2017-01-01'
+  link: https://doi.org/hcb3v7
+  image: images/pubs/pentouch.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10857-016-9348-9
+  title: "More than meets the eye: patterns and shifts in middle school mathematics\
+    \ teachers\u2019 descriptions of models"
+  authors:
+  - Michelle H. Wilkerson
+  - Alfredo Bautista
+  - Roger G. Tobin
+  - "B\xE1rbara M. Brizuela"
+  - Ying Cao
+  publisher: Journal of Mathematics Teacher Education
+  date: '2016-04-25'
+  link: https://doi.org/gf52t2
+  image: images/pubs/jmte.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1002/sce.21157
+  title: 'Balancing Curricular and Pedagogical Needs in Computational Construction
+    Kits: Lessons From the DeltaTick Project'
+  authors:
+  - MICHELLE WILKERSON-JERDE
+  - ADITI WAGH
+  - URI WILENSKY
+  publisher: Science Education
+  date: '2015-04-15'
+  link: https://doi.org/f69324
+  image: images/pubs/scied.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1080/10508406.2014.976647
+  title: 'Patterns, Probabilities, and People: Making Sense of Quantitative Change
+    in Complex Systems'
+  authors:
+  - Michelle Hoda Wilkerson-Jerde
+  - Uri J. Wilensky
+  publisher: Journal of the Learning Sciences
+  date: '2014-12-22'
+  link: https://doi.org/gc3kbs
+  image: images/pubs/jls.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10956-014-9497-5
+  title: "Exploring Shifts in Middle School Learners\u2019 Modeling Activity While\
+    \ Generating Drawings, Animations, and Computational Simulations of Molecular\
+    \ Diffusion"
+  authors:
+  - Michelle H. Wilkerson-Jerde
+  - Brian E. Gravel
+  - Christopher A. Macrander
+  publisher: Journal of Science Education and Technology
+  date: '2014-06-13'
+  link: https://doi.org/f65w3x
+  image: images/pubs/jost.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11423-013-9327-0
+  title: 'Construction, categorization, and consensus: student generated computational
+    artifacts as a context for disciplinary reflection'
+  authors:
+  - Michelle Hoda Wilkerson-Jerde
+  publisher: Educational Technology Research and Development
+  date: '2013-12-22'
+  link: https://doi.org/f5tfmz
+  image: images/pubs/etrd.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s10649-011-9306-5
+  title: 'How do mathematicians learn math?: resources and acts for constructing and
+    understanding mathematics'
+  authors:
+  - Michelle H. Wilkerson-Jerde
+  - Uri J. Wilensky
+  publisher: Educational Studies in Mathematics
+  date: '2011-03-16'
+  link: https://doi.org/b63n6h
+  image: images/pubs/esm.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.4018/978-1-60960-080-8.ch001
+  title: MAgICS
+  authors:
+  - Forrest Stonedahl
+  - Michelle Wilkerson-Jerde
+  - Uri Wilensky
+  publisher: Multi-Agent Systems for Education and Interactive Entertainment
+  date: '2011-01-01'
+  link: https://doi.org/chm37g
+  image: images/pubs/masie.webp
   plugin: sources.py
   file: sources.yaml
 - id: 10.1145/1124706.1121410
