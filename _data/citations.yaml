@@ -570,6 +570,12 @@
   year: 2013
   plugin: sources.py
   file: sources.yaml
+- title: 'NetLogo HotLink Replay: A tool for exploring, analyzing and interpreting
+    mathematical change in complex systems'
+  image: /images/pubs/icls10.jpg
+  year: 2010
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-032-10246-1_11
   title: "Modality Matters: Exploring and Capturing Students\u2019 Mechanistic Reasoning\
     \ During Computational Modeling in Science Education"
