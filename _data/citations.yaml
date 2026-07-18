@@ -532,6 +532,10 @@
   image: /images/pubs/zdm.jpg
   plugin: sources.py
   file: sources.yaml
+- title: Locating the learner in collaborative constructionist design
+  image: images/pubs/cf.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/1047124.1047394
   title: Ubiquitous presenter
   authors:
@@ -542,7 +546,7 @@
   date: '2005-02-23'
   link: https://doi.org/czdfxr
   year: 2010
-  image: images/pubs/sigcseicls10.jpg
+  image: images/pubs/sigcse.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/1124706.1121410
@@ -588,7 +592,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22318/icls2024.730439
-  title: "Decomposing Students\\\u2019 Design Moves when Programming Agent-Based Models"
+  title: "Decomposing Students\u2019 Design Moves when Programming Agent-Based Models"
   authors:
   - Adelmo Eloy
   - Tamar Fuhrmann
@@ -628,5 +632,19 @@
   date: '2023-10-03'
   link: https://doi.org/hcb4g7
   image: /images/pubs/isls23.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/1047124.1047394
+  title: 'Ubiquitous presenter: Increasing student access and control in a digital
+    lecturing environment'
+  authors:
+  - Michelle Wilkerson
+  - William G. Griswold
+  - Beth Simon
+  publisher: ACM SIGCSE Bulletin
+  date: '2005-02-23'
+  link: https://doi.org/czdfxr
+  image: /images/pubs/sigcse.jpg
+  year: 2005
   plugin: sources.py
   file: sources.yaml
