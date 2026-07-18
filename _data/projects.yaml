@@ -1,14 +1,14 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Show Your Work!
+  subtitle: A Gentle Introduction to Computational Notebooks for K-12 Teachers
   group: featured
-  image: images/photo.jpg
+  image: 
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Show Your Work is a set of free, beginner-friendly Jupyter notebooks for K-12 teachers. By experiencing computational data investigation first-hand, educators can make more informed decisions about whether and how to use data and computing in their classroom instruction.
+  repo: calcore/show-your-work
   tags:
-    - resource
+    - teachers, publications, notebooks
 
-- title: Cool Package
+- title: MoDa - Models + Real World Data
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
