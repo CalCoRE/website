@@ -115,6 +115,12 @@
 - id: doi:10.1145/1124706.1121410
   image: images/pubs/sigcse.jpg
 
+- id: doi:10.1007/s10956-014-9497-5
+  image: /images/pubs/jost.jpg
+
+- title: "SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical ideas using computational media"
+  image: /images/pubs/cscl2013.png
+  year: 2013
 
 # ADDING BOOK CHAPTERS
 - id: doi:10.1007/978-3-032-10246-1_11
@@ -122,6 +128,7 @@
 
 - id: doi:10.1007/978-3-032-14426-3_6
   image: /images/pubs/palgrave.webp
+
 
 # ADDING ARCHIVAL CONFERENCES
 
@@ -141,7 +148,7 @@
     Explanations?
   image: /images/pubs/isls23.png
 
-- id: 10.1145/1047124.1047394
+- id: doi:10.1145/1047124.1047394
   title: "Ubiquitous presenter: Increasing student access and control in a digital lecturing environment"
   image: /images/pubs/sigcse.jpg
   year: 2005
