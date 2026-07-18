@@ -3,107 +3,107 @@
 - id: doi:10.1111/test.70022
   image: /images/pubs/tch-stats.jpg
 
-- id: 10.1162/99608f92.9ac68105
-  image: /images/pubs/hdsr.jpg
+- id: doi:10.1162/99608f92.9ac68105
+  image: /images/pubs/hdsr.png
 
-- id: 10.1007/s10763-024-10521-y
+- id: doi:10.1007/s10763-024-10521-y
   image: /images/pubs/ijsme.webp
 
-- id: 10.1080/07370008.2024.2427400
+- id: doi:10.1080/07370008.2024.2427400
   image: /images/pubs/cog-inst.jpg
 
-- id: 10.1002/sce.21890
+- id: doi:10.1002/sce.21890
   image: /images/pubs/scied.jpg
 
-- id: 10.1080/08872376.2024.2340444
+- id: doi:10.1080/08872376.2024.2340444
   image: /images/pubs/science-scope.jpg
 
-- id: 10.1016/j.ijcci.2022.100546
+- id: doi:10.1016/j.ijcci.2022.100546
   image: images/pubs/ccc-book.png
 
-- id: 10.58295/2375-3668.1452
+- id: doi:10.58295/2375-3668.1452
   image: images/pubs/bankst.png
 
-- id: 10.4324/9781003089728-12
+- id: doi:10.4324/9781003089728-12
   image: images/pubs/ls-in-convo.jpg
 
-- id: 10.3102/0013189X211048810
+- id: doi:10.3102/0013189X211048810
   image: images/pubs/ed-researcher.jpg
 
-- id: 10.1080/10986065.2021.1922838
+- id: doi:10.1080/10986065.2021.1922838
   image: images/pubs/mtl.webp
 
-- id: 10.7551/mitpress/12091.003.0028
+- id: doi:10.7551/mitpress/12091.003.0028
   image: images/pubs/design-futures.jpg
 
-- id: 10.1080/10494820.2020.1711326
+- id: doi:10.1080/10494820.2020.1711326
   image: images/pubs/ile.jpg
 
-- id: 10.1080/10508406.2019.1705664
+- id: doi:10.1080/10508406.2019.1705664
   image: images/pubs/jls.webp
 
-- id: 10.1080/10714413.2019.1684162
+- id: doi:10.1080/10714413.2019.1684162
   image: images/pubs/repcs.jpg
 
-- id: 10.1080/09500693.2019.1620972
+- id: doi:10.1080/09500693.2019.1620972
   image: images/pubs/ijse.jpg
 
-- id: 10.1007/s11858-018-0974-9
+- id: doi:10.1007/s11858-018-0974-9
   image: images/pubs/zdm.jpg
 
-- id: 10.1007/s11251-017-9430-4
+- id: doi:10.1007/s11251-017-9430-4
   image: images/pubs/inst-sci.webp
 
-- id: 10.1145/3105726.3106193
+- id: doi:10.1145/3105726.3106193
   image: images/pubs/icer17.avif
 
-- id: 10.1145/3078072.3084302
+- id: doi:10.1145/3078072.3084302
   image: images/pubs/idc17.jpg
 
-- id: 10.4324/9781315630830-13
+- id: doi:10.4324/9781315630830-13
   image: images/pubs/pdl.jpg
 
-- id: 10.1007/978-3-319-64239-0_17
+- id: doi:10.1007/978-3-319-64239-0_17
   image: images/pubs/models.webp
 
-- id: 10.1007/978-3-319-64239-0_17
+- id: doi:10.1007/978-3-319-64239-0_17
   image: images/pubs/pentouch.webp
 
-- id: 10.1007/s10857-016-9348-9
+- id: doi:10.1007/s10857-016-9348-9
   image: images/pubs/jmte.webp
 
-- id: 10.1002/sce.21157
+- id: doi:10.1002/sce.21157
   image: images/pubs/scied.jpg
 
-- id: 10.1080/10508406.2014.976647
+- id: doi:10.1080/10508406.2014.976647
   image: images/pubs/jls.webp
 
-- id: 10.1007/s10956-014-9497-5
+- id: doi:10.1007/s10956-014-9497-5
   image: images/pubs/jost.jpg
 
-- id: 10.1007/s11423-013-9327-0
+- id: doi:10.1007/s11423-013-9327-0
   image: images/pubs/etrd.webp
 
-- id: 10.1007/s10649-011-9306-5
+- id: doi:10.1007/s10649-011-9306-5
   image: images/pubs/esm.webp
 
-- id: 10.4018/978-1-60960-080-8.ch001
+- id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
 
 # ADDING ARCHIVAL CONFERENCES
 
-- id: 10.1145/1124706.1121410
+- id: doi:10.1145/1124706.1121410
   title: "Multimodal communication in the classroom: what does it mean for us?"
 
-- id: 10.22318/icls2024.730439
+- id: doi:10.22318/icls2024.730439
   title: Decomposing Students\’ Design Moves when Programming Agent-Based Models
   image: /images/pubs/isls24.png
 
-- id: 10.22318/icls2024.424056
+- id: doi:10.22318/icls2024.424056
   title: "Activism or Bureaucracy: What Are We Teaching Students Through Local Climate Action Projects?"
   image: /images/pubs/isls24.png
   
-- id: 10.22318/icls2023.208036
+- id: doi:10.22318/icls2023.208036
   title: How Can Computational Modeling Help Students Shift Their Ideas Towards Scientifically Accurate 
     Explanations?
   image: /images/pubs/isls23.png
