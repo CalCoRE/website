@@ -1,5 +1,11 @@
 # ADDING IMAGES TO PUBLICATIONS
 
+- id: doi:10.1016/j.ijcci.2026.100819
+  image: /images/pubs/ijcci.jpg
+
+- id: doi:10.1007/s11858-026-01798-0
+  image: /images/pubs/zdm.jpg
+
 - id: doi:10.1111/test.70022
   image: /images/pubs/tch-stats.jpg
 
@@ -106,6 +112,14 @@
 
 - id: doi:10.1145/1124706.1121410
   image: images/pubs/sigcse.jpg
+
+
+# ADDING BOOK CHAPTERS
+- id: doi:10.1007/978-3-032-10246-1_11
+  image: /images/pubs/exmech.webp
+
+- id: doi:10.1007/978-3-032-14426-3_6
+  image: /images/pubs/palgrave.webp
 
 # ADDING ARCHIVAL CONFERENCES
 
