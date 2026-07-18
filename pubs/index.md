@@ -13,7 +13,7 @@ Here you should be able to find most archival and pre-print versions of our publ
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Open science meets orange skies: K-12 educators’ engagement with computational notebooks to explore scientific events with human impacts" style="rich" %}
 
 {% include section.html %}
 
