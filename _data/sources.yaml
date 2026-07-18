@@ -96,12 +96,14 @@
 - id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
 
+- title: "Locating the learner in collaborative constructionist design"
+  image: images/pubs/cf.jpg
 #- id: EID:2-s2.0-84937045638
 #  image: images/pubs/cf.jpg
 
 - id: doi:10.1145/1047124.1047394
   year: 2010
-  image: images/pubs/sigcseicls10.jpg
+  image: images/pubs/sigcse.jpg
 
 #- id: EID:2-s2.0-84886483305
 #  year: 2013
@@ -127,7 +129,7 @@
   title: "Multimodal communication in the classroom: what does it mean for us?"
 
 - id: doi:10.22318/icls2024.730439
-  title: Decomposing Students\’ Design Moves when Programming Agent-Based Models
+  title: "Decomposing Students’ Design Moves when Programming Agent-Based Models"
   image: /images/pubs/isls24.png
 
 - id: doi:10.22318/icls2024.424056
@@ -138,3 +140,8 @@
   title: How Can Computational Modeling Help Students Shift Their Ideas Towards Scientifically Accurate 
     Explanations?
   image: /images/pubs/isls23.png
+
+- id: 10.1145/1047124.1047394
+  title: "Ubiquitous presenter: Increasing student access and control in a digital lecturing environment"
+  image: /images/pubs/sigcse.jpg
+  year: 2005
