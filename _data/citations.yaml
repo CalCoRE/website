@@ -307,8 +307,9 @@
   link: https://doi.org/hcb3v5
   orcid: 0000-0001-8250-068X
   michelle-wilkerson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/models.webp
 - id: doi:10.4324/9781315630830-13
   title: Teachers, Students, and After-School Professionals as Designers of Digital
     Tools for Learning
@@ -348,7 +349,7 @@
   michelle-wilkerson: true
   plugin: sources.py
   file: sources.yaml
-  image: images/pubs/icer17.avif
+  image: images/pubs/icer17.png
 - id: doi:10.1145/3078072.3084302
   title: Youth Reasoning With Interactive Data Visualizations
   authors:
@@ -376,8 +377,9 @@
   link: https://doi.org/hcb3v9
   orcid: 0000-0001-8250-068X
   michelle-wilkerson: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/jost.jpg
 - id: doi:10.1002/sce.21157
   title: 'Balancing Curricular and Pedagogical Needs in Computational Construction
     Kits: Lessons From the DeltaTick Project'
@@ -428,9 +430,8 @@
   link: https://doi.org/f65w3x
   orcid: 0000-0001-8250-068X
   michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/jost.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s11423-013-9327-0
   title: 'Construction, categorization, and consensus: student generated computational
     artifacts as a context for disciplinary reflection'
@@ -501,6 +502,19 @@
   michelle-wilkerson: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/1047124.1047394
+  title: Ubiquitous presenter
+  authors:
+  - Michelle Wilkerson
+  - William G. Griswold
+  - Beth Simon
+  publisher: ACM SIGCSE Bulletin
+  date: '2005-02-23'
+  link: https://doi.org/czdfxr
+  year: 2010
+  image: images/pubs/sigcseicls10.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/1124706.1121410
   title: 'Multimodal communication in the classroom: what does it mean for us?'
   authors:
@@ -511,6 +525,7 @@
   publisher: ACM SIGCSE Bulletin
   date: '2006-03-03'
   link: https://doi.org/dvmnj9
+  image: images/pubs/sigcse.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22318/icls2024.730439
