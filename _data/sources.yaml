@@ -78,7 +78,7 @@
 - id: doi:10.1080/10508406.2014.976647
   image: images/pubs/jls.webp
 
-- id: doi:doi:10.1007/s10972-016-9453-8
+- id: doi:10.1007/s10972-016-9453-8
   image: images/pubs/jost.jpg
 
 - id: doi:10.1007/s11423-013-9327-0
@@ -90,14 +90,14 @@
 - id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
 
-- id: EID: 2-s2.0-84937045638
+- id: EID:2-s2.0-84937045638
   image: images/pubs/cf.jpg
 
 - id: doi:10.1145/1047124.1047394
   year: 2010
   image: images/pubs/sigcseicls10.jpg
 
-- id: EID: 2-s2.0-84886483305
+- id: EID:2-s2.0-84886483305
   year: 2013
   image: images/pubs/cscl2013.png
 
