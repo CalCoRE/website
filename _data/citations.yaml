@@ -473,3 +473,70 @@
   michelle-wilkerson: true
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1145/3105726.3106193
+  title: Understanding student collaboration in interdisciplinary computing activities
+  authors:
+  - Elise Deitrick
+  - Michelle Hoda Wilkerson
+  - Eric Simoneau
+  publisher: Proceedings of the 2017 ACM Conference on International Computing Education
+    Research
+  date: '2017-08-14'
+  link: https://doi.org/hcb3v8
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/1124706.1121410
+  title: 'Multimodal communication in the classroom: what does it mean for us?'
+  authors:
+  - Tamara Denning
+  - William G. Griswold
+  - Beth Simon
+  - Michelle Wilkerson
+  publisher: ACM SIGCSE Bulletin
+  date: '2006-03-03'
+  link: https://doi.org/dvmnj9
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2024.730439
+  title: "Decomposing Students\\\u2019 Design Moves when Programming Agent-Based Models"
+  authors:
+  - Adelmo Eloy
+  - Tamar Fuhrmann
+  - Aditi Wagh
+  - Roseli de Deus Lopes
+  - Michelle Wilkerson
+  - Paulo Blikstein
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2024-06-10'
+  link: https://doi.org/hcb4g5
+  image: /images/pubs/isls24.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2024.424056
+  title: 'Activism or Bureaucracy: What Are We Teaching Students Through Local Climate
+    Action Projects?'
+  authors:
+  - Helen L. Fitzmaurice
+  - Michelle H. Wilkerson
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2024-06-10'
+  link: https://doi.org/hcb4g6
+  image: /images/pubs/isls24.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2023.208036
+  title: How Can Computational Modeling Help Students Shift Their Ideas Towards Scientifically
+    Accurate Explanations?
+  authors:
+  - Tamar Fuhrmann
+  - Aditi Wagh
+  - Leah F. Rosenbaum
+  - Adelmo Eloy
+  - Michelle Wilkerson
+  - Paulo Blikstein
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2023-10-03'
+  link: https://doi.org/hcb4g7
+  image: /images/pubs/isls23.png
+  plugin: sources.py
+  file: sources.yaml
