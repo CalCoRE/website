@@ -55,7 +55,7 @@
   image: images/pubs/inst-sci.webp
 
 - id: doi:10.1145/3105726.3106193
-  image: images/pubs/icer17.avif
+  image: images/pubs/icer17.png
 
 - id: doi:10.1145/3078072.3084302
   image: images/pubs/idc17.jpg
@@ -78,7 +78,7 @@
 - id: doi:10.1080/10508406.2014.976647
   image: images/pubs/jls.webp
 
-- id: doi:10.1007/s10956-014-9497-5
+- id: doi:doi:10.1007/s10972-016-9453-8
   image: images/pubs/jost.jpg
 
 - id: doi:10.1007/s11423-013-9327-0
@@ -89,6 +89,23 @@
 
 - id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
+
+- id: EID: 2-s2.0-84937045638
+  image: images/pubs/cf.jpg
+
+- id: doi:10.1145/1047124.1047394
+  year: 2010
+  image: images/pubs/sigcseicls10.jpg
+
+- id: EID: 2-s2.0-84886483305
+  year: 2013
+  image: images/pubs/cscl2013.png
+
+- id: doi:10.1007/978-3-319-58914-5_3
+  image: images/pubs/models.webp
+
+- id: doi:10.1145/1124706.1121410
+  image: images/pubs/sigcse.jpg
 
 # ADDING ARCHIVAL CONFERENCES
 
