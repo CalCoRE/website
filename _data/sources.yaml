@@ -121,13 +121,13 @@
 - title: 'SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical
     ideas using computational media'
   image: /images/pubs/cscl2013.png
-  year: 2013
+  date: 2013
   
 - title: 'NetLogo HotLink Replay: A tool for exploring, analyzing and interpreting
     mathematical change in complex systems'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880564252&partnerID=MN8TOARS
   image: /images/pubs/icls10.jpg
-  year: 2010
+  date: 2010
 
 # ADDING BOOK CHAPTERS
 - id: doi:10.1007/978-3-032-10246-1_11
@@ -136,7 +136,15 @@
 - id: doi:10.1007/978-3-032-14426-3_6
   image: /images/pubs/palgrave.webp
 
-- id: hal:hal-05325572
+- title: "The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI"
+  image: /images/pubs/cerme.png
+  date: 2025
+  authors:
+    - name: "Biehler, R."
+      role: "author"
+    - name: "Wilkerson, M. H."
+      role: "author"
+  url: https://hal.science/hal-05325572v1
 
 # ADDING ARCHIVAL CONFERENCES
 
