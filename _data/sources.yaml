@@ -47,6 +47,7 @@
   image: images/pubs/ile.jpg
 
 - id: doi:10.1080/10508406.2019.1705664
+  date: '2020-01-01''
   image: images/pubs/jls.webp
 
 - id: doi:10.1080/10714413.2019.1684162
