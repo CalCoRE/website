@@ -648,10 +648,6 @@
   image: images/pubs/zdm.jpg
   plugin: sources.py
   file: sources.yaml
-- title: Locating the learner in collaborative constructionist design
-  image: images/pubs/cf.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/1047124.1047394
   title: 'Ubiquitous presenter: Increasing student access and control in a digital
     lecturing environment'
@@ -662,7 +658,7 @@
   publisher: ACM SIGCSE Bulletin
   date: '2005-02-23'
   link: https://doi.org/czdfxr
-  year: 2005
+  year: '2005-05-23'
   image: /images/pubs/sigcse.jpg
   plugin: sources.py
   file: sources.yaml
@@ -677,6 +673,15 @@
   date: '2006-03-03'
   link: https://doi.org/dvmnj9
   image: images/pubs/sigcse.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Locating the learner in collaborative constructionist design
+  image: images/pubs/cf.jpg
+  publisher: Constructivist Foundations
+  authors:
+  - Michelle H. Wilkerson
+  url: https://constructivist.info/10/3/315.wilkerson
+  date: '2015-07-01'
   plugin: sources.py
   file: sources.yaml
 - title: 'SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical
