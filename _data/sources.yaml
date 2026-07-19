@@ -96,18 +96,9 @@
 - id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
 
-- title: "Locating the learner in collaborative constructionist design"
-  image: images/pubs/cf.jpg
-#- id: EID:2-s2.0-84937045638
-#  image: images/pubs/cf.jpg
-
 - id: doi:10.1145/1047124.1047394
   year: 2010
   image: images/pubs/sigcse.jpg
-
-#- id: EID:2-s2.0-84886483305
-#  year: 2013
-#  image: images/pubs/cscl2013.png
 
 - id: doi:10.1007/978-3-319-58914-5_3
   image: images/pubs/models.webp
@@ -117,6 +108,16 @@
 
 - id: doi:10.1007/s10956-014-9497-5
   image: /images/pubs/jost.jpg
+
+# MANUALLY ADDED REFERENCES
+
+- title: "Locating the learner in collaborative constructionist design"
+  image: images/pubs/cf.jpg
+  publisher: Constructivist Foundations
+  authors:
+    - Michelle H. Wilkerson
+  url: https://constructivist.info/10/3/315.wilkerson
+  date: '2015-07-01'
 
 - title: 'SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical
     ideas using computational media'
@@ -165,4 +166,4 @@
 - id: doi:10.1145/1047124.1047394
   title: "Ubiquitous presenter: Increasing student access and control in a digital lecturing environment"
   image: /images/pubs/sigcse.jpg
-  year: 2005
+  year: '2005-05-23'
