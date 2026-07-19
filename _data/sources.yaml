@@ -70,9 +70,6 @@
   image: images/pubs/pdl.jpg
 
 - id: doi:10.1007/978-3-319-64239-0_17
-  image: images/pubs/models.webp
-
-- id: doi:10.1007/978-3-319-64239-0_17
   image: images/pubs/pentouch.webp
 
 - id: doi:10.1007/s10857-016-9348-9
@@ -117,6 +114,9 @@
 
 - id: doi:10.1145/3501712.3536384
   image: /images/pubs/idc2022.png
+
+- id: doi:10.1007/s10758-008-9142-6
+  image: /images/pubs/tkl.webp
 
 # MANUALLY ADDED REFERENCES
 
