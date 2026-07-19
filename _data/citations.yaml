@@ -777,6 +777,18 @@
   publisher: Proceedings of the International Conference of the Learning Sciences
   date: '2025-06-10'
   link: https://doi.org/hcb4hw
-  image: /images/pubs/isls25.png
+  image: /images/pubs/isls25.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.5070/T5121038001
+  title: Data Moves
+  authors:
+  - Tim Erickson
+  - Michelle Wilkerson
+  - William Finzer
+  - Frieda Reichsman
+  publisher: Technology Innovations in Statistics Education
+  date: '2019-07-08'
+  link: https://doi.org/gqv6c4
   plugin: sources.py
   file: sources.yaml
