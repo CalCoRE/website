@@ -138,6 +138,9 @@
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880564252&partnerID=MN8TOARS
   image: /images/pubs/icls10.jpg
   date: '2010-06-10'
+  authors:
+    - Michelle H. Wilkerson
+    - Uri J. Wilensky
 
 # ADDING BOOK CHAPTERS
 - id: doi:10.1007/978-3-032-10246-1_11
