@@ -122,7 +122,7 @@
 - title: 'SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical
     ideas using computational media'
   image: /images/pubs/cscl2013.png
-  date: 2013
+  date: '2013-06/10'
   
 - title: 'NetLogo HotLink Replay: A tool for exploring, analyzing and interpreting
     mathematical change in complex systems'
@@ -144,6 +144,8 @@
     - Rolf Biehler
     - Michelle H. Wilkerson
   url: https://hal.science/hal-05325572v1
+  publisher: Proceedings of the 14th Congress of the European Society for Research in Mathematics Education (CERME14)
+  id: hal:hal-05325572v1
 
 # ADDING ARCHIVAL CONFERENCES
 
