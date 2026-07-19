@@ -1,47 +1,65 @@
 - title: Show Your Work!
-  subtitle: A Gentle Introduction to Computational Notebooks for K-12 Teachers
+  subtitle: A Gentle Intro to Computational Notebooks for K-12 Teachers
   group: featured
-  image: 
+  image: images/projects/syw.png
   link: https://github.com/
-  description: Show Your Work is a set of free, beginner-friendly Jupyter notebooks for K-12 teachers. By experiencing computational data investigation first-hand, educators can make more informed decisions about whether and how to use data and computing in their classroom instruction.
+  description: How might experiencing computational data investigation first-hand help educators make more informed decisions about using data and computing in their classrooms?
   repo: calcore/show-your-work
   tags:
     - teachers, publications, notebooks
 
-- title: MoDa - Models + Real World Data
-  subtitle: a subtitle
+- title: MoDa <br> Models + Real World Data
+  subtitle: Inquiry Science that combines Computational Modeling and Real-World Data
   group: featured
-  image: images/photo.jpg
+  image: images/projects/moda.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: What can students learn by building computer models of scientific systems, and validating them with real-world data from online databases or videos?
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Rivulet
+  subtitle: Python Notebook Utilities to fetch Pedagogically Useful Datasets
+  image: images/projects/rivulet.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: How can we help educators find datasets that are local, recent, and relevant, while ensuring that they exhibit key statistical and domain-specific characteristics that are known to be pedagogically generative?
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: The Data Science Education Fellowship
+  subtitle: A partnership with the College of Computing, Data Science, and Society (CDSS) and the Social Sciences D-Lab
+  image: images/projects/dsed.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: How do we prepare the next generation of Data Science Education scholars to reach across silos to build coherent, ethical data science trajectories?
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Oakland Teachers Advancing Climate Action
+  subtitle: 
+  image: images/projects/otaca.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Oakland Teachers Advancing Climate Action (OTACA) works with existing collaborations of teachers who are making learning local, active, and relevant for students. The OTACA community designs and tries out student-action projects related to environmental justice.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+  
+- title: Writing Data Stories
+  subtitle: Introducing students to data investigations of scientific systems through data storytelling.
+  image: images/projects/wds.png
+  link: https://github.com/
+  description: How does allowing students to use everyday experiences alongside computational data analysis affect their interest and reasoning about complex scientific issues?
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Computing as Multiliteracies Partnership
+  subtitle: A partnership with the Participating in Literacies and Computer Science (PiLa-CS) project
+  image: images/projects/glef.png
+  link: https://github.com/
+  description: What are general approaches and strategies to promote equitable, literacy-based computing education in K-12 classrooms?
   repo: greenelab/lab-website-template
   tags:
     - software
