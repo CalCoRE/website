@@ -597,7 +597,7 @@
   - Paulo Blikstein
   - Michelle Wilkerson
   publisher: International Journal of Child-Computer Interaction
-  date: '2026-06-01'
+  date: '2026-04-10'
   link: https://doi.org/hcb4g9
   image: /images/pubs/ijcci.jpg
   plugin: sources.py
@@ -615,7 +615,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/1124706.1121410
-  title: 'Multimodal communication in the classroom: what does it mean for us?'
+  title: Multimodal communication in the classroom
   authors:
   - Tamara Denning
   - William G. Griswold
@@ -672,12 +672,12 @@
     education in the age of data science and AI'
   image: /images/pubs/cerme.png
   date: '2025-10-22'
+  publisher: Proceedings of the 14th Congress of the European Society for Research
+    in Mathematics Education (CERME14)
   authors:
   - Rolf Biehler
   - Michelle H. Wilkerson
   url: https://hal.science/hal-05325572v1
-  publisher: Proceedings of the 14th Congress of the European Society for Research
-    in Mathematics Education (CERME14)
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22318/icls2024.730439
@@ -735,5 +735,48 @@
   link: https://doi.org/czdfxr
   image: /images/pubs/sigcse.jpg
   year: '2005-05-23'
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2023.118113
+  title: "Storytelling \u201Cin Theory\u201D: Re-imagining Computational Literacies\
+    \ through the Lenses of Syncretism and Translanguaging"
+  authors:
+  - Lauren Vogelstein
+  - Cherise McBride
+  - Jasmine Y.
+  - Michelle Wilkerson
+  - Sara Vogel
+  - Wendy Barrales
+  - Laura Ascenzi-Moreno
+  - Christopher Hoadley
+  - "Kris Guti\xE9rrez"
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2023-10-03'
+  link: https://doi.org/hcb4ht
+  image: /images/pubs/isls23.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2024.160400
+  title: 'Storytelling With and About Data: Mapping the Terrain'
+  authors:
+  - Kyla A. Kemble
+  - Michelle H. Wilkerson
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2024-06-10'
+  link: https://doi.org/hcb4hv
+  image: /images/pubs/isls24.png
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.22318/icls2025.663874
+  title: "Teachers of Students with Visual Impairments\u2019 Role in Supporting Nonvisual\
+    \ Spatial and Graphical Literacies for Blind and Low Vision Students"
+  authors:
+  - Erin Ansel Foley
+  - Yuqian Liu
+  - Michelle H. Wilkerson
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2025-06-10'
+  link: https://doi.org/hcb4hw
+  image: /images/pubs/isls25.png
   plugin: sources.py
   file: sources.yaml
