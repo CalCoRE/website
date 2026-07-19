@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s11858-026-01798-0
+  title: "Open science meets orange skies: K-12 educators\u2019 engagement with computational\
+    \ notebooks to explore scientific events with human impacts"
+  authors:
+  - Michelle H. Wilkerson
+  - Jung Min Shin
+  - Sun Young Ban
+  publisher: "ZDM \u2013 Mathematics Education"
+  date: '2026-05-18'
+  link: https://doi.org/hcb4hb
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pubs/zdm.jpg
 - id: doi:10.1111/test.70022
   title: "How to be \u201CChoosy\u201D: Wrangling big datasets for the classroom"
   authors:
@@ -15,6 +30,21 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/pubs/tch-stats.jpg
+- id: doi:10.1007/978-3-032-14426-3_6
+  title: 'Layered Landscapes: Critical Climate Cartography as a Pedagogical Framework
+    to Bring Together Data, Experience, Science, and History'
+  authors:
+  - Jacob C. Barton
+  - Michelle H. Wilkerson
+  - Helen L. Fitzmaurice
+  publisher: Palgrave Studies in Education and the Environment
+  date: '2026-01-01'
+  link: https://doi.org/hcb4hd
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pubs/palgrave.webp
 - id: doi:10.1007/s10763-024-10521-y
   title: How Teachers Envision Using Data Visualization Discussion Tasks in Classroom
     Instruction
@@ -150,20 +180,41 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/ls-in-convo.jpg
-- id: doi:10.3102/0013189X211048810
-  title: "A Call for a Humanistic Stance Toward K\u201312 Data Science Education"
+- id: doi:10.1145/3501712.3536384
+  title: 'After the Study Ends: Developing Heuristics To Design for Sustainable Use
+    of Learning Technologies in Classrooms'
   authors:
-  - Victor R. Lee
-  - Michelle Hoda Wilkerson
-  - Kathryn Lanouette
-  publisher: Educational Researcher
-  date: '2021-09-23'
-  link: https://doi.org/gngfpb
+  - Jacob Wolf
+  - Tamar Fuhrmann
+  - Aditi Wagh
+  - Adelmo Antonio da Silva Eloy
+  - Paulo Blikstein
+  - Michelle Wilkerson
+  publisher: Interaction Design and Children
+  date: '2022-06-27'
+  link: https://doi.org/hcb4hj
   orcid: 0000-0001-8250-068X
   michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/ed-researcher.jpg
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3501712.3529723
+  title: 'MoDa: Designing a Tool to Interweave Computational Modeling with Real-world
+    Data Analysis for Science Learning in Middle School'
+  authors:
+  - Aditi Wagh
+  - Tamar Fuhrmann
+  - Adelmo Antonio da Silva Eloy
+  - Jacob Wolf
+  - Engin Bumbacher
+  - Paulo Blikstein
+  - Michelle Wilkerson
+  publisher: Interaction Design and Children
+  date: '2022-06-27'
+  link: https://doi.org/hcb4hk
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/10986065.2021.1922838
   title: 'Exploring variability during data preparation: a way to connect data, chance,
     and context when working with complex public datasets'
@@ -179,6 +230,47 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/mtl.webp
+- id: doi:10.3102/0013189X211048810
+  title: "A Call for a Humanistic Stance Toward K\u201312 Data Science Education"
+  authors:
+  - Victor R. Lee
+  - Michelle Hoda Wilkerson
+  - Kathryn Lanouette
+  publisher: Educational Researcher
+  date: '2021-09-23'
+  link: https://doi.org/gngfpb
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/ed-researcher.jpg
+- id: doi:10.1145/3459990.3465177
+  title: 'Reflective Data Storytelling for Youth: The CODAP Story Builder'
+  authors:
+  - Michelle Wilkerson
+  - William Finzer
+  - Tim Erickson
+  - Damaris Hernandez
+  publisher: Interaction Design and Children
+  date: '2021-06-24'
+  link: https://doi.org/gnqv9w
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10508406.2019.1705664
+  title: 'Situating Data Science: Exploring How Relationships to Data Shape Learning'
+  authors:
+  - Michelle Hoda Wilkerson
+  - Joseph L. Polman
+  publisher: Journal of the Learning Sciences
+  date: '2019-12-20'
+  link: https://doi.org/ggkff8
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/jls.webp
 - id: doi:10.1080/10494820.2020.1711326
   title: 'Stories from the field: locating and cultivating computational thinking
     in spaces of learning'
@@ -194,19 +286,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/ile.jpg
-- id: doi:10.1080/10508406.2019.1705664
-  title: 'Situating Data Science: Exploring How Relationships to Data Shape Learning'
-  authors:
-  - Michelle Hoda Wilkerson
-  - Joseph L. Polman
-  publisher: Journal of the Learning Sciences
-  date: '2019-12-20'
-  link: https://doi.org/ggkff8
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/jls.webp
 - id: doi:10.7551/mitpress/12091.003.0028
   title: Storytelling as a Support for Collective Constructionist Activity
   authors:
@@ -250,20 +329,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/ijse.jpg
-- id: doi:10.1007/s11858-018-0974-9
-  title: "Middle school students\u2019 reasoning about data and context through storytelling\
-    \ with repurposed local data"
-  authors:
-  - Michelle Hoda Wilkerson
-  - Vasiliki Laina
-  publisher: ZDM
-  date: '2018-07-30'
-  link: https://doi.org/rbmz
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/zdm.jpg
 - id: doi:10.1007/s11251-017-9430-4
   title: Epistemic gameplay and discovery in computational model-based inquiry activities
   authors:
@@ -279,6 +344,19 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/inst-sci.webp
+- id: doi:10.1007/S11858-018-0974-9
+  title: "Middle school students\u2019 reasoning about data and context through storytelling\
+    \ with repurposed local data"
+  authors:
+  - Michelle Hoda Wilkerson
+  - Vasiliki Laina
+  publisher: ZDM
+  date: '2018-07-30'
+  link: https://doi.org/rbmz
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s10857-016-9348-9
   title: "More than meets the eye: patterns and shifts in middle school mathematics\
     \ teachers\u2019 descriptions of models"
@@ -296,20 +374,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/jmte.webp
-- id: doi:10.1007/978-3-319-58914-5_3
-  title: Integrating Computational Artifacts into the Multi-representational Toolkit
-    of Physics Education
-  authors:
-  - Brian E. Gravel
-  - Michelle H. Wilkerson
-  publisher: Models and Modeling in Science Education
-  date: '2017-01-01'
-  link: https://doi.org/hcb3v5
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/models.webp
 - id: doi:10.4324/9781315630830-13
   title: Teachers, Students, and After-School Professionals as Designers of Digital
     Tools for Learning
@@ -335,6 +399,20 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/pentouch.webp
+- id: doi:10.1007/978-3-319-58914-5_3
+  title: Integrating Computational Artifacts into the Multi-representational Toolkit
+    of Physics Education
+  authors:
+  - Brian E. Gravel
+  - Michelle H. Wilkerson
+  publisher: Models and Modeling in Science Education
+  date: '2017-01-01'
+  link: https://doi.org/hcb3v5
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/models.webp
 - id: doi:10.1145/3105726.3106193
   title: Understanding Student Collaboration in Interdisciplinary Computing Activities
   authors:
@@ -380,6 +458,16 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/jost.jpg
+- id: wosuid:WOS:000364906200010
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000364906200010
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/sce.21157
   title: 'Balancing Curricular and Pedagogical Needs in Computational Construction
     Kits: Lessons From the DeltaTick Project'
@@ -395,28 +483,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/scied.jpg
-- title: Locating the learner in collaborative constructionist design
-  publisher: Constructivist Foundations
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84937045638&partnerID=MN8TOARS
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1080/10508406.2014.976647
-  title: 'Patterns, Probabilities, and People: Making Sense of Quantitative Change
-    in Complex Systems'
-  authors:
-  - Michelle Hoda Wilkerson-Jerde
-  - Uri J. Wilensky
-  publisher: Journal of the Learning Sciences
-  date: '2014-12-22'
-  link: https://doi.org/gc3kbs
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: sources.py
-  file: sources.yaml
-  image: images/pubs/jls.webp
 - id: doi:10.1007/s10956-014-9497-5
   title: "Exploring Shifts in Middle School Learners\u2019 Modeling Activity While\
     \ Generating Drawings, Animations, and Computational Simulations of Molecular\
@@ -433,6 +499,20 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/pubs/jost.jpg
+- id: doi:10.1080/10508406.2014.976647
+  title: 'Patterns, Probabilities, and People: Making Sense of Quantitative Change
+    in Complex Systems'
+  authors:
+  - Michelle Hoda Wilkerson-Jerde
+  - Uri J. Wilensky
+  publisher: Journal of the Learning Sciences
+  date: '2014-12-22'
+  link: https://doi.org/gc3kbs
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pubs/jls.webp
 - id: doi:10.1007/s11423-013-9327-0
   title: 'Construction, categorization, and consensus: student generated computational
     artifacts as a context for disciplinary reflection'
@@ -493,6 +573,42 @@
   michelle-wilkerson: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s10758-008-9142-6
+  title: 'Agents with Attitude: Exploring Coombs Unfolding Technique with Agent-Based
+    Models'
+  authors:
+  - Michelle Hoda Wilkerson
+  publisher: International Journal of Computers for Mathematical Learning
+  date: '2009-01-29'
+  link: https://doi.org/c6cdx7
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Perceptual supports for sensemaking: A case study using multi agent based
+    computational learning environments'
+  publisher: Computer-Supported Collaborative Learning Conference, CSCL
+  date: '2026-07-18'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880423385&partnerID=MN8TOARS
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1121341.1121410
+  title: Multimodal communication in the classroom
+  authors:
+  - Tamara Denning
+  - William G. Griswold
+  - Beth Simon
+  - Michelle Wilkerson
+  publisher: Proceedings of the 37th SIGCSE technical symposium on Computer science
+    education
+  date: '2006-03-03'
+  link: https://doi.org/bb8dfd
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - title: 'Ubiquitous presenter: Increasing student access and control in a digital
     lecturing environment'
   publisher: Proceedings of the Thirty-Sixth SIGCSE Technical Symposium on Computer
@@ -520,17 +636,16 @@
   image: /images/pubs/ijcci.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/s11858-026-01798-0
-  title: "Open science meets orange skies: K-12 educators\u2019 engagement with computational\
-    \ notebooks to explore scientific events with human impacts"
+- id: doi:10.1007/s11858-018-0974-9
+  title: "Middle school students\u2019 reasoning about data and context through storytelling\
+    \ with repurposed local data"
   authors:
-  - Michelle H. Wilkerson
-  - Jung Min Shin
-  - Sun Young Ban
-  publisher: "ZDM \u2013 Mathematics Education"
-  date: '2026-05-18'
-  link: https://doi.org/hcb4hb
-  image: /images/pubs/zdm.jpg
+  - Michelle Hoda Wilkerson
+  - Vasiliki Laina
+  publisher: ZDM
+  date: '2018-07-30'
+  link: https://doi.org/rbmz
+  image: images/pubs/zdm.jpg
   plugin: sources.py
   file: sources.yaml
 - title: Locating the learner in collaborative constructionist design
@@ -567,13 +682,14 @@
 - title: 'SiMSAM: An integrated toolkit to bridge student, scientific, and mathematical
     ideas using computational media'
   image: /images/pubs/cscl2013.png
-  year: 2013
+  date: '1970-01-01'
   plugin: sources.py
   file: sources.yaml
 - title: 'NetLogo HotLink Replay: A tool for exploring, analyzing and interpreting
     mathematical change in complex systems'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880564252&partnerID=MN8TOARS
   image: /images/pubs/icls10.jpg
-  year: 2010
+  date: '1970-01-01'
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-032-10246-1_11
@@ -592,17 +708,16 @@
   image: /images/pubs/exmech.webp
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-3-032-14426-3_6
-  title: 'Layered Landscapes: Critical Climate Cartography as a Pedagogical Framework
-    to Bring Together Data, Experience, Science, and History'
+- title: 'The new role of data in society: Challenges and opportunities for mathematics
+    education in the age of data science and AI'
+  image: /images/pubs/cerme.png
+  date: '1970-01-01'
   authors:
-  - Jacob C. Barton
-  - Michelle H. Wilkerson
-  - Helen L. Fitzmaurice
-  publisher: Palgrave Studies in Education and the Environment
-  date: '2026-01-01'
-  link: https://doi.org/hcb4hd
-  image: /images/pubs/palgrave.webp
+  - name: Biehler, R.
+    role: author
+  - name: Wilkerson, M. H.
+    role: author
+  url: https://hal.science/hal-05325572v1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.22318/icls2024.730439
