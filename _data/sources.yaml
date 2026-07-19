@@ -96,9 +96,9 @@
 - id: doi:10.4018/978-1-60960-080-8.ch001
   image: images/pubs/masie.webp
 
-- id: doi:10.1145/1047124.1047394
-  year: 2010
-  image: images/pubs/sigcse.jpg
+#- id: doi:10.1145/1047124.1047394
+#  year: 2010
+#  image: images/pubs/sigcse.jpg
 
 - id: doi:10.1007/978-3-319-58914-5_3
   image: images/pubs/models.webp
@@ -111,6 +111,12 @@
 
 - id: doi:10.1145/3459990.3465177
   image: /images/pubs/idc2021.png
+
+- id: doi:10.1145/3501712.3529723
+  image: /images/pubs/idc2022.png
+
+- id: doi:10.1145/3501712.3536384
+  image: /images/pubs/idc2022.png
 
 # MANUALLY ADDED REFERENCES
 
