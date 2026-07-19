@@ -161,9 +161,6 @@
 
 # ADDING ARCHIVAL CONFERENCES
 
-- id: doi:10.1145/1124706.1121410
-  title: "Multimodal communication in the classroom: what does it mean for us?"
-
 - id: doi:10.22318/icls2024.730439
   title: "Decomposing Students’ Design Moves when Programming Agent-Based Models"
   image: /images/pubs/isls24.png
@@ -181,3 +178,12 @@
   title: "Ubiquitous presenter: Increasing student access and control in a digital lecturing environment"
   image: /images/pubs/sigcse.jpg
   year: '2005-05-23'
+
+- id: 10.22318/icls2023.118113
+  image: /images/pubs/isls23.png
+
+- id: 10.22318/icls2024.160400
+  image: /images/pubs/isls24.png
+
+- id: 10.22318/icls2025.663874
+  image: /images/pubs/isls25.png
