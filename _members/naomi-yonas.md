@@ -1,5 +1,5 @@
 ---
 name: Naomi Yonas
-image: images/celia
+image: 
 role: alumni
 ---
