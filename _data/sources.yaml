@@ -1,6 +1,7 @@
 # ADDING IMAGES TO PUBLICATIONS
 
 - id: doi:10.1016/j.ijcci.2026.100819
+  date: '2026-04-10'
   image: /images/pubs/ijcci.jpg
 
 - id: doi:10.1007/s11858-026-01798-0
@@ -152,11 +153,11 @@
 - title: "The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI"
   image: /images/pubs/cerme.png
   date: '2025-10-22'
+  publisher: Proceedings of the 14th Congress of the European Society for Research in Mathematics Education (CERME14)
   authors:
     - Rolf Biehler
     - Michelle H. Wilkerson
   url: https://hal.science/hal-05325572v1
-  publisher: Proceedings of the 14th Congress of the European Society for Research in Mathematics Education (CERME14)
 
 # ADDING ARCHIVAL CONFERENCES
 
