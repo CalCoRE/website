@@ -53,6 +53,9 @@
           | split: ","
           | array_carve: 5
           | join: ", "
+          | replace: "Michelle Wilkerson", "Michelle H. Wilkerson"
+          | replace: "Michelle Hoda Wilkerson", "Michelle H. Wilkerson"
+          | replace: "Michelle Wilkerson-Jerde", "Michelle H. Wilkerson"
           | markdownify
           | remove: "<p>" | remove: "</p>"
           | default: "[no author info]"
