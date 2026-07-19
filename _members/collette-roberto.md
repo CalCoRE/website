@@ -1,5 +1,5 @@
 ---
 name: Collette Roberto
-image: images/celia
+image: images/people/collette.png
 role: alumni
 ---

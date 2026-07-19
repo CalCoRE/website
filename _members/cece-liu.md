@@ -1,5 +1,5 @@
 ---
 name: Cecelia (Yuqian) Liu
-image: images/celia
+image: images/people/cece.jpg
 role: alumni
 ---

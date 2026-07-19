@@ -1,6 +1,6 @@
 ---
 name: Michelle H Wilkerson
-image: images/photo.jpg
+image: images/people/michelle.jpg
 role: researcher
 aliases:
   - Michelle Hoda Wilkerson

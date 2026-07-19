@@ -1,6 +1,6 @@
 ---
 name: Kyla Kemble
-image: images/kyla.jpg
+image: images/people/kyla.jpg
 role: phd
 group: people
 ---

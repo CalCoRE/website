@@ -1,5 +1,5 @@
 ---
 name: Jia Xin Sun
-image: images/celia
+image: images/people/jiaxin.jpg
 role: alumni
 ---

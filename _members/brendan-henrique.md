@@ -1,6 +1,6 @@
 ---
 name: Brendan Henrique
-image: images/brendan.jpg
+image: images/people/brendan.jpg
 role: phd
 group: people
 ---

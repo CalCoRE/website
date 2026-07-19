@@ -1,5 +1,5 @@
 ---
 name: Emily Reigh
-image: images/celia
+image: images/people/emily.jpg
 role: alumni
 ---

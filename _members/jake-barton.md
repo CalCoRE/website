@@ -1,6 +1,6 @@
 ---
 name: Jacob Barton
-image: images/jake.png
+image: images/people/jake.png
 role: phd
 group: people
 ---

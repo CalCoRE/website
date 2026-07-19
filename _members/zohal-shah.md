@@ -1,6 +1,6 @@
 ---
 name: Zohal Shah
-image: images/zohal.jpg
+image: images/people/zohal.jpg
 role: phd
 group: people
 ---

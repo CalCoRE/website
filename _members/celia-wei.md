@@ -1,5 +1,5 @@
 ---
 name: Xinyu (Celia) Wei
-image: images/celia
+image: images/people/celia.png
 role: alumni
 ---

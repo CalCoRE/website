@@ -1,6 +1,6 @@
 ---
 name: Helen Fitzmaurice
-image: images/helen.png
+image: images/people/helen.png
 role: researcher
 group: people
 ---

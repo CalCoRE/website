@@ -1,5 +1,5 @@
 ---
 name: Cherise McBride
-image: images/celia
+image: images/people/cherise.jpg
 role: alumni
 ---

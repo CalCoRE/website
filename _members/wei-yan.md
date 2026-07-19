@@ -1,6 +1,6 @@
 ---
 name: Dr. Wei Yan
-image: images/wei.png
+image: images/people/wei.png
 role: postdoc
 group: people
 ---

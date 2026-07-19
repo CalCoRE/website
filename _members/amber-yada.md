@@ -1,5 +1,5 @@
 ---
 name: Amber Yada
-image: images/celia
+image: images/people/amber.jpg
 role: alumni
 ---

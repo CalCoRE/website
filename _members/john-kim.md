@@ -1,5 +1,5 @@
 ---
 name: John Kim
-image: images/celia
+image: images/people/john.jpg
 role: alumni
 ---
