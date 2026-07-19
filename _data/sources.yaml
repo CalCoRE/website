@@ -127,7 +127,7 @@
     mathematical change in complex systems'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880564252&partnerID=MN8TOARS
   image: /images/pubs/icls10.jpg
-  date: 2010
+  date: '2010-06-10'
 
 # ADDING BOOK CHAPTERS
 - id: doi:10.1007/978-3-032-10246-1_11
@@ -138,12 +138,10 @@
 
 - title: "The new role of data in society: Challenges and opportunities for mathematics education in the age of data science and AI"
   image: /images/pubs/cerme.png
-  date: 2025
+  date: '2025-10-22'
   authors:
-    - name: "Biehler, R."
-      role: "author"
-    - name: "Wilkerson, M. H."
-      role: "author"
+    - Rolf Biehler
+    - Michelle H. Wilkerson
   url: https://hal.science/hal-05325572v1
 
 # ADDING ARCHIVAL CONFERENCES
