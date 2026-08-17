@@ -7,21 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you have questions about our research projects, want to collaborate on new educational designs, or are interested in using our teaching resources, please reach out to us.
 
 {%
   include button.html
   type="email"
   text="cal-core@berkeley.edu"
   link="cal-core@berkeley.edu"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
 %}
 {%
   include button.html
@@ -37,7 +29,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Berkeley School of Education building, home of the CoRE Lab."
 %}
 
 {% endcapture %}
@@ -47,7 +39,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="Collaborative research and design sessions with educators."
 %}
 
 {% endcapture %}
@@ -57,21 +49,21 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Mailing Address**  
+Berkeley School of Education  
+University of California, Berkeley  
+Berkeley, CA 94720  
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**General Inquiries**  
+For general questions or partnership opportunities, email us at:  
+[cal-core@berkeley.edu](mailto:cal-core@berkeley.edu)  
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Our Work**  
+Explore our active curriculum designs, publications, and software on our [Projects](/projects/) page.  
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

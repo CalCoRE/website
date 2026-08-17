@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research and development initiatives span classroom-ready software design, empirical data science curriculum development, and teacher professional training. Explore our featured projects and tools below.
 
 {% include tags.html tags="publication, resource, website" %}
 

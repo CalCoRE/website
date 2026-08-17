@@ -1,8 +1,8 @@
 - title: Show Your Work!
   subtitle: A Gentle Intro to Computational Notebooks for K-12 Teachers
   group: featured
-  image: images/projects/syw.png
-  link: https://github.com/
+  image: images/projects/syw.jpg
+  link: /blog/syw/
   description: How might experiencing computational data investigation first-hand help educators make more informed decisions about using data and computing in their classrooms?
   repo: calcore/show-your-work
   tags:
@@ -11,8 +11,8 @@
 - title: MoDa <br> Models + Real World Data
   subtitle: Inquiry Science that combines Computational Modeling and Real-World Data
   group: featured
-  image: images/projects/moda.png
-  link: https://github.com/
+  image: images/projects/moda.jpg
+  link: /blog/moda/
   description: What can students learn by building computer models of scientific systems, and validating them with real-world data from online databases or videos?
   repo: greenelab/lab-website-template
   tags:
@@ -20,8 +20,8 @@
 
 - title: Rivulet
   subtitle: Python Notebook Utilities to fetch Pedagogically Useful Datasets
-  image: images/projects/rivulet.png
-  link: https://github.com/
+  image: images/projects/rivulet.jpg
+  link: /blog/rivulet/
   description: How can we help educators find datasets that are local, recent, and relevant, while ensuring that they exhibit key statistical and domain-specific characteristics that are known to be pedagogically generative?
   repo: greenelab/lab-website-template
   tags:
@@ -48,8 +48,8 @@
   
 - title: Writing Data Stories
   subtitle: Introducing students to data investigations of scientific systems through data storytelling.
-  image: images/projects/wds.png
-  link: https://github.com/
+  image: images/projects/wds.jpg
+  link: /blog/wds/
   description: How does allowing students to use everyday experiences alongside computational data analysis affect their interest and reasoning about complex scientific issues?
   repo: greenelab/lab-website-template
   tags:

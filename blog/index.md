@@ -7,15 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Resources for Teaching and Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Explore our collection of discussion guides, datasets, lesson slides, and interactive notebook modules designed to integrate computational thinking and data investigation into classrooms. Search or filter below by project, target level, and resource type.
 
 {% include section.html %}
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+<div class="tags-grouped">
+  <div class="tag-group">
+    <span class="tag-group-label">Project:</span>
+    {% include tags.html tags="choosy, syw, wds, moda, rivulet" %}
+  </div>
+  <div class="tag-group">
+    <span class="tag-group-label">Level:</span>
+    {% include tags.html tags="middle school, high school, teachers, college" %}
+  </div>
+  <div class="tag-group">
+    <span class="tag-group-label">Type:</span>
+    {% include tags.html tags="datasets, coding, diy-guides, data-analysis" %}
+  </div>
+</div>
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include list.html data="posts" component="post-excerpt" filter="categories.nil? || !categories.include?('news')" %}

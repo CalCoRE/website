@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The CoRE Lab is composed of educational researchers, computer scientists, and design specialists dedicated to developing expressive statistical computing environments and curriculum designs for classrooms. Meet our team members below.
 
 {% include section.html %}
 
@@ -23,9 +21,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research is done in close partnership with school districts, teachers, and university researchers. We welcome inquiries from scholars, educators, and organizations interested in collaborating with us on learning sciences research and STEM design.
 
 {% include section.html %}
 
