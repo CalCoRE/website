@@ -267,7 +267,7 @@
   - Michelle Hoda Wilkerson
   - Joseph L. Polman
   publisher: Journal of the Learning Sciences
-  date: '2019-12-20'
+  date: '2020-01-01'
   link: https://doi.org/ggkff8
   orcid: 0000-0001-8250-068X
   michelle-wilkerson: true
@@ -461,16 +461,6 @@
   plugin: sources.py
   file: sources.yaml
   image: images/pubs/jost.jpg
-- id: wosuid:WOS:000364906200010
-  title: Web of Science
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000364906200010
-  orcid: 0000-0001-8250-068X
-  michelle-wilkerson: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/sce.21157
   title: 'Balancing Curricular and Pedagogical Needs in Computational Construction
     Kits: Lessons From the DeltaTick Project'
@@ -502,6 +492,16 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/pubs/jost.jpg
+- id: wosuid:WOS:000364906200010
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000364906200010
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1080/10508406.2014.976647
   title: 'Patterns, Probabilities, and People: Making Sense of Quantitative Change
     in Complex Systems'
