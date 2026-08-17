@@ -47,4 +47,8 @@
   font-style: italic;
 }
 
+.card-text p {
+  font-size: 0.85em;
+}
+
 /*# sourceMappingURL=card.css.map */

@@ -30,4 +30,33 @@
   background: var(--light-gray);
 }
 
+.tags-grouped {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 25px 0;
+}
+
+.tag-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.tag-group-label {
+  font-weight: bold;
+  min-width: 80px;
+  text-align: right;
+  color: var(--primary);
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.tag-group > .tags {
+  margin: 0;
+}
+
 /*# sourceMappingURL=tags.css.map */
