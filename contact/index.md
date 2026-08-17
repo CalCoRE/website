@@ -28,7 +28,7 @@ If you have questions about our research projects, want to collaborate on new ed
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berkeley_Way_West.jpeg"
   caption="Berkeley School of Education building, home of the CoRE Lab."
 %}
 
