@@ -15,7 +15,7 @@ h1 {
   margin: 40px 0;
   font-size: 1.6rem;
   font-weight: var(--regular);
-  text-transform: uppercase;
+  font-variant: small-caps;
   text-align: center;
 }
 
@@ -24,6 +24,7 @@ h2 {
   padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
   font-weight: var(--regular);
+  color: var(--primary);
 }
 
 h3 {
