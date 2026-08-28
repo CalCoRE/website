@@ -1,10 +1,10 @@
 ---
 title: "Brendan Henrique Wins First Place at SIGCSE 2024"
-image: images/projects/syw.jpg
+image: images/pubs/sigcse.jpg
 author: "CalCoRE"
 tags:
   - news
-  - syw
+  
 categories:
   - news
 ---
