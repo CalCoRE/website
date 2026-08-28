@@ -2,7 +2,7 @@
 title: Resources
 nav:
   order: 1
-  tooltip: Musings and miscellany
+  tooltip: Curriculum, Guides, Datasets, and Code!
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Resources for Teaching and Design
