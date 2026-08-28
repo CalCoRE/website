@@ -24,27 +24,13 @@ If you have questions about our research projects, want to collaborate on new ed
 
 {% include section.html %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berkeley_Way_West.jpeg"
-  caption="Berkeley School of Education building, home of the CoRE Lab."
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Collaborative research and design sessions with educators."
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
+<div style="display: flex; justify-content: center;">
+  {%
+    include figure.html
+    image="images/bww.webp"
+    caption="Berkeley School of Education building, home of the CoRE Lab."
+  %}
+</div>
 
 {% include section.html dark=true %}
 
