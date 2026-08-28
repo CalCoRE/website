@@ -10,73 +10,22 @@ Our research and design is done in partnership with educators and community orga
 
 {% include section.html %}
 
-{% capture text %}
+<div class="home-features">
+  <div class="home-feature">
+    <p class="feature-title">Our Projects</p>
+    <p>Learn more about our research and development work exploring data and computing rich teaching, learning, and curriculum.</p>
+    <p><a class="home-feature-link" href="{{ 'projects' | relative_url }}">Learn More <span aria-hidden="true">&rarr;</span></a></p>
+  </div>
 
-Learn more about our research and development work exploring teaching, learning, and curriculum.
+  <div class="home-feature">
+    <p class="feature-title">Teaching Resources</p>
+    <p>Free discussion guides, tech tools, and NGSS/GAISE-aligned curriculum units for teachers and designers.</p>
+    <p><a class="home-feature-link" href="{{ 'resources' | relative_url }}">See our resources <span aria-hidden="true">&rarr;</span></a></p>
+  </div>
 
-{%
-  include button.html
-  link="projects"
-  text="Learn More"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Projects"
-  text=text
-%}
-
-{% capture text %}
-
-Free discussion guides, tech tools, and NGSS/GAISE-aligned curriculum units for teachers and designers.
-
-{%
-  include button.html
-  link="projects"
-  text="See our resources"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Teaching Resources"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Research findings and frameworks for learning with/about scientific computing.
-
-{%
-  include button.html
-  link="pubs"
-  text="Read our work"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Publications"
-  text=text
-%}
+  <div class="home-feature">
+    <p class="feature-title">Publications</p>
+    <p>Research findings and frameworks for learning with/about scientific computing.</p>
+    <p><a class="home-feature-link" href="{{ 'pubs' | relative_url }}">Read our work <span aria-hidden="true">&rarr;</span></a></p>
+  </div>
+</div>
